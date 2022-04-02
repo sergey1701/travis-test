@@ -12,7 +12,7 @@ def generate_buzz():
     page = '<html><body><h1>'
     page += generator.generate_buzz()
     page += '</h1></body></html>'
-    print("Hello World!!!")
+    # print("Hello World!!!")
     return page
 
 if __name__ == "__main__":
